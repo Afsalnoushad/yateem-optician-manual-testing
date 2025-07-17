@@ -50,8 +50,8 @@ This is a personal manual testing project performed on the **Yateem Optician** e
 
 ---
 
-## 🙋‍♂️ About Me
-
-I’m a QA enthusiast working on building a strong foundation in software testing. This project is part of my personal portfolio to demonstrate my manual testing knowledge and approach.
+## 👤 About Me  
+**Afsal Noushad**  
+Aspiring QA Automation Engineer passionate about delivering reliable and maintainable test solutions.
 
 ---
