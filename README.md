@@ -1,4 +1,4 @@
-# 🧪 Yateem Optician – Manual Testing Project
+# 🔍 Yateem Optician – Manual Testing Project
 
 This is a personal manual testing project performed on the **Yateem Optician** e-commerce website. The goal of this project is to showcase my manual testing skills by creating clear test cases, reporting bugs, and summarizing the testing process — just like it would be done in a real QA job.
 
